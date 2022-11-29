@@ -13,6 +13,7 @@
 # api_key: your Scopus API key
 # file_path: file to an excel file containing the data
 # univ_name: name of university
+# period: the time period, e.g. 2017:2021 (optional, but recommended for long lists)
 #
 # Needs packages tidyverse, bibliometrix
 #
