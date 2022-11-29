@@ -1,1 +1,8 @@
-
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+- family-names: "Koukoutsidis"
+  given-names: "Ioannis"
+title: "Bibliostats, GitHub repository"
+date-released: 2022-11-29
+url: "https://github.com/gnk02/bibliostats/"
