@@ -15,6 +15,7 @@
 # 
 # api_key: your Scopus API key
 # file_path: file to a directory containing the files
+# period: the time period, e.g. 2017:2021 (optional, but recommended for long lists)
 #
 # Needs packages tidyverse, bibliometrix
 #
