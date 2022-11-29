@@ -16,6 +16,7 @@
 # search_term: string containing a search term related to the thematic area 
 # (subject area) one would like to search (e.g. "physics")
 # exclude_term: string the user would like to exclude from the search (optional)
+# period: the time period, e.g. 2017:2021 (optional, but recommended for long lists)
 #
 # Needs packages tidyverse, bibliometrix
 #
