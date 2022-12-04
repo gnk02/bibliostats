@@ -23,7 +23,7 @@ This funciton reads a file containing authors with Scopus IDs and affiliation (u
 
 ## function gs_scrape_univ
 
-This function scrapes a Google Scholar insitution (here university) page and returns a table with the active authors in a given period, the number of papers and
+This function scrapes a Google Scholar institution (here university) page and returns a table with the active authors in a given period, the number of papers and
 number of citations.
 
 ## License
