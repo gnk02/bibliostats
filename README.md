@@ -19,7 +19,7 @@ The xlsx file names are used to build the table of results, so the file name cou
 
 ## function sc_bibliostats_thematic
 
-This funciton reads a file containing authors with Scopus IDs and affiliation (university name, department name), filters to find authors in certain subject area (based on department affiliation), and then performs a search in Scopus and returns a dataframe with bibliometric data for a given time period. It uses the bibliometrix package similar to the above.
+This function reads a file containing authors with Scopus IDs and affiliation (university name, department name), filters to find authors in certain subject area (based on department affiliation), and then performs a search in Scopus and returns a dataframe with bibliometric data for a given time period. It uses the bibliometrix package similar to the above.
 
 ## function gs_scrape_univ
 
